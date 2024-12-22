@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controller/apicontroller.ts","./src/entities/user.ts","./src/routes/routes.ts","./src/services/database.ts","./src/services/mongoservice.ts","./src/services/userservice.ts","./src/utils/cryptoutils.ts"],"version":"5.7.2"}
